@@ -1,0 +1,5 @@
+{
+  "name": "CNN Architectures on CIFAR-10",
+  "description": "A comparative study and visualization of AlexNet, VGG16, ResNet50, and InceptionV3 performance on the CIFAR-10 dataset.",
+  "requestFramePermissions": []
+}
